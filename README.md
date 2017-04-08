@@ -2,7 +2,7 @@
 
 A chinese character stroke count lookup table according to Kangxi Zidian (康熙字典) radical rules.
 
-Includes all chinese characters in Unicode 9.0.0/Unihan Database that are referenced in Kangxi Zidian.
+Includes all chinese characters in Kangxi Zidian that are encoded in Unicode 9.0.0/Unihan Database. 63696 characters in total.
 
 The CSV table is encoded in UTF-8, with Windows BOM to facilitate interoperation with Excel.
 
