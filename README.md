@@ -6,7 +6,7 @@ Includes all chinese characters in Unicode 9.0.0/Unihan Database that are refere
 
 The CSV table is encoded in UTF-8, with Windows BOM to facilitate interoperation with Excel.
 
-康熙字典筆劃數對照表。
+## 康熙字典筆劃數對照表
 
 在一些傳統場合上，需要根據康熙字典的部首，來計算筆劃數。這有時候會跟手寫筆劃數不同。
 
