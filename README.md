@@ -17,4 +17,6 @@ The CSV table is encoded in UTF-8, with BOM and Windows EOL marks (CR/LF) to fac
 
 CSV格式，UTF8編碼，包含BOM和以Windows的CR/LF換行，可直接雙擊或拖放到Excel使用。
 
+https://breezyreeds.wordpress.com/2017/04/08/%E7%94%A8excel%E8%A8%88%E7%AE%97%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8%E7%AD%86%E5%8A%83%E6%95%B8/
+
 [MIT License](https://github.com/breezyreeds/kangxi-strokecount/blob/master/LICENSE)
