@@ -1,8 +1,8 @@
 # kangxi-strokecount
 
-A chinese character stroke count lookup table according to Kangxi Zidian (康熙字典) radical rules.
+A stroke count lookup table according to Kangxi Zidian (康熙字典) radical rules.
 
-Includes all chinese characters in Kangxi Zidian that are encoded in Unicode 9.0.0, with 63696 characters in total.
+Includes all han characters in Kangxi Zidian that are encoded in Unicode 9.0.0, with 63696 characters in total.
 
 The CSV table is encoded in UTF-8, with BOM and Windows EOL marks (CR/LF) to facilitate interoperation with Excel.
 
