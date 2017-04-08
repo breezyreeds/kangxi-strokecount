@@ -6,8 +6,8 @@
 
 例：「華」，手寫計12劃。而康熙字典裏，部首為「艸」，計6劃。加上「艸」部首以外的8劃，共計14劃。
 
-此對照表收錄Unicode 9.0.0裏所有源自康熙字典 (kRSKangXi) 的漢字，包括正典和補遺，共計63696字。
+此對照表收錄Unicode 9.0.0/Unihan Database裏所有源自康熙字典 (kRSKangXi) 的漢字，包括正典和補遺，共計63696字。
 
-CSV格式，UTF8編碼，包含Windows BOM，可直接拖放到Excel使用。
+CSV格式，UTF8編碼，包含Windows BOM，可直接雙擊或拖放到Excel使用。
 
 [MIT License](https://github.com/breezyreeds/kangxi-strokecount/blob/master/LICENSE)
