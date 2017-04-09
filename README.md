@@ -1,6 +1,6 @@
 # kangxi-strokecount
 
-A stroke count lookup table according to Kangxi Zidian (康熙字典) radical rules.
+A stroke count lookup table according to Kangxi radicals stroke order.
 
 Includes all han characters in Kangxi Zidian that are encoded in Unicode 9.0.0, with 63696 characters in total.
 
