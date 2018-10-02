@@ -2,7 +2,7 @@
 
 A stroke count lookup table according to Kangxi radicals stroke order.
 
-Includes all han characters in Kangxi Zidian that are encoded in Unicode 10.0.0, with 63696 characters in total.
+Includes all han characters in Kangxi Zidian that are encoded in Unicode 11.0.0, with 63696 characters in total.
 
 The CSV table is encoded in UTF-8, with BOM and Windows EOL marks (CR/LF) to facilitate interoperation with Excel.
 
